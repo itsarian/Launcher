@@ -2,7 +2,7 @@
   <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
 </p>
 
-MultiMC
+Multihi
 =======
 
 MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
